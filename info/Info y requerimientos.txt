@@ -24,7 +24,7 @@ Catalago:
 
 
 3. Iluminación: 
-	1. Foco alogeno
+	1. Foco halogeno
 	2. Foco led
 	3. Calaberas
 
@@ -32,7 +32,7 @@ Catalago:
 	1. Sockets 
 
 5. Quimicos: 
-	1. Carbon clean
+	1. Carbu clean
 	2. A floja todo
 	3. Shampo para carros
 	4. Cera ligera
