@@ -1,0 +1,48 @@
+Catalago: 
+	1. Marchas
+	2. Alternador 
+	3. Iluminación
+	4. Arneces
+	5. Quimicos
+	6. Terminales
+	7. Full injection 
+
+1. Marcha: Completa y despiece, su despiece es el siguiente;
+	1. Campana
+	2. Bujes
+	3. Seguro
+	4. Impulsor/Bendix
+	5. Armadura
+	6. PortaCarbones
+	7. Selenoide
+	8. Orquilla
+
+2. Alternador: 
+	1. Rotor/Armadura
+	2. Placa Portadiodos
+	3. Porta Carbones
+
+
+3. Iluminación: 
+	1. Foco alogeno
+	2. Foco led
+	3. Calaberas
+
+4. Arneses:
+	1. Sockets 
+
+5. Quimicos: 
+	1. Carbon clean
+	2. A floja todo
+	3. Shampo para carros
+	4. Cera ligera
+	
+6. Terminales: 
+	1. 
+
+7. Full injection:
+	1. Bobina
+	2. Sensores
+	3. Modulos de encendido.
+
+
