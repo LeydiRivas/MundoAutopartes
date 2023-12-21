@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <!-- Página de inicio -->
+  <url>
+    <loc>https://github.com/LeydiRivas/MundoAutopartes/blob/3bbe40744b8ac561cea4c7ea9848bcec83366fba/Proyecto/index.html</loc>
+    <lastmod>2022-10-01</lastmod>
+    <priority>0.64</priority>
+  </url>
+  
+  <!-- Página de los alternadores -->
+  <url>
+    <loc>https://github.com/LeydiRivas/MundoAutopartes/blob/3bbe40744b8ac561cea4c7ea9848bcec83366fba/Proyecto/alternador.html</loc>
+    <lastmod>2022-10-02</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- Página de los arneces -->
+  <url>
+    <loc>https://github.com/LeydiRivas/MundoAutopartes/blob/3bbe40744b8ac561cea4c7ea9848bcec83366fba/Proyecto/arnes.html</loc>
+    <lastmod>2022-10-03</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+  <!-- Página de la iluminación -->
+  <url>
+    <loc>https://github.com/LeydiRivas/MundoAutopartes/blob/3bbe40744b8ac561cea4c7ea9848bcec83366fba/Proyecto/iluminacion.html</loc>
+    <lastmod>2022-10-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+   <!-- Página de las terminales -->
+  <url>
+    <loc>https://github.com/LeydiRivas/MundoAutopartes/blob/3bbe40744b8ac561cea4c7ea9848bcec83366fba/Proyecto/terminal.html</loc>
+    <lastmod>2022-10-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+   <!-- Página del Error404 -->
+  <url>
+    <loc>https://github.com/LeydiRivas/MundoAutopartes/blob/3bbe40744b8ac561cea4c7ea9848bcec83366fba/Proyecto/error.html</loc>
+    <lastmod>2022-10-04</lastmod>
+    <priority>0.80</priority>
+  </url>
+  
+</urlset>
